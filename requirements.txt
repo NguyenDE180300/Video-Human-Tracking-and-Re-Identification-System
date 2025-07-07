@@ -1,0 +1,16 @@
+# Core Libraries
+numpy
+opencv-python
+scipy
+
+# Deep Learning Framework
+torch
+torchvision
+
+# Object Detection & Tracking
+ultralytics
+deep-sort-realtime
+
+# Jupyter Environment
+jupyterlab
+ipykernel
